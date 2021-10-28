@@ -1,6 +1,6 @@
 # Sentiment Analysis Through Natural Language Processing
 
-## Presentation
+## [Presentation](presentation.pdf)
 
 ## Goal
 
